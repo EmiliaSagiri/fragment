@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <array name='ljj'>
+        <item>@drawable/shenli</item>
+        <item>@drawable/hou</item>
+        <item>@drawable/mao</item>
+        <item>@drawable/ljj</item>
+    </array>
+</resources>
